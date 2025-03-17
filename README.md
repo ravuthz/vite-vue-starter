@@ -21,3 +21,4 @@ bunx degit ravuthz/vite-vue-starter#main vue-app
 2. Test on cloud
 
 [![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://github.com/ravuthz/vite-vue-starter)
+[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/ravuthz/vite-vue-starter)
