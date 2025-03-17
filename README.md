@@ -20,7 +20,7 @@ bunx degit ravuthz/vite-vue-starter#main vue-app
 
 2. Test on cloud
 
-<a href="https://idx.google.com/import?url=https://github.com/ravuthz/vite-vue-starter">
+<!-- <a href="https://idx.google.com/import?url=https://github.com/ravuthz/vite-vue-starter">
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
@@ -33,13 +33,13 @@ bunx degit ravuthz/vite-vue-starter#main vue-app
       alt="Open in IDX"
       src="https://cdn.idx.dev/btn/open_purple_32.svg">
   </picture>
-</a>
+</a> -->
 
 [![Open in IDX](https://cdn.idx.dev/btn/open_dark_32.svg)](https://idx.google.com/import?url=https://github.com/ravuthz/vite-vue-starter)
 
 [![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://github.com/ravuthz/vite-vue-starter)
 
-[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/ravuthz/vite-vue-starter)
+[![Open in Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/ravuthz/vite-vue-starter)
 
 [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/ravuthz/vite-vue-starter)
 
