@@ -37,7 +37,7 @@ bunx degit ravuthz/vite-vue-starter#main vue-app
 
 [![Open in IDX](https://cdn.idx.dev/btn/open_dark_32.svg)](https://idx.google.com/import?url=https://github.com/ravuthz/vite-vue-starter)
 
-[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://github.com/ravuthz/vite-vue-starter)
+[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/ravuthz/vite-vue-starter)
 
 [![Open in Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/ravuthz/vite-vue-starter)
 
